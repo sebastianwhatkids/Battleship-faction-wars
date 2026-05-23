@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "battleshipfactionwars",
+  "compatibility_date": "2026-05-23",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "battleship-faction-wars"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
